@@ -18,5 +18,9 @@ export const Topics = [
   {
     id: 5,
     topic: 'GCD-LCM'
+  },
+  {
+    id: 6,
+    topic: 'Number System'
   }
 ];
